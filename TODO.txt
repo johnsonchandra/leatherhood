@@ -1,0 +1,51 @@
+TODO
+
+Struktur Menu
+1. Welcome Page
+2. About
+3. Product List
+4. Blog
+5. Login/Logout
+
+
+
+1. Welcome Page
+
+Section 1: 3 Blog Terbaru
+Butuh Foto buat Carousel.
+enaknya 3 biji, kalau diclick, jadi ke blog.
+
+Section 2: Kategori Produk
+
+
+
+2. About
+Section 1
+Leatherhood itu apa
+
+Section 2
+Our Team
+
+Section 3
+Contact Us
+
+Section 4
+Send Us a Message
+
+
+3. Catalog
+Section 1
+
+Section 2
+
+4. Blog
+Section 1
+
+
+5. FAQ
+
+
+6. Login/Logout
+-
+
+
